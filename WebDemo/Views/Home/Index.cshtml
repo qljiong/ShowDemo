@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model MJ.Models.UserInfo
+<h2>Index</h2>
+<table class="table">
+    <tr>
+        <td>@Model.Id</td>
+        <td>@Model.UserName</td>
+        <td>@Model.UserPWD</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+</table>
+@section scripts{
+    <script>
+        console.log("test");
+    </script>
+}

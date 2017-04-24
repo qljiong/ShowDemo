@@ -1,0 +1,6 @@
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\bin\Debug\MJ.DBUtility.dll
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\bin\Debug\MJ.DBUtility.pdb
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\bin\Debug\MySql.Data.dll
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\obj\Debug\MJ.DBUtility.dll
+D:\Demo\ShowDemo\EmergencyDemo\DBUtility\obj\Debug\MJ.DBUtility.pdb

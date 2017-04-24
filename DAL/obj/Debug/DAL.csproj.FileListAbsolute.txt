@@ -1,0 +1,12 @@
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.DAL.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.DAL.pdb
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\Maticsoft.Common.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.DBUtility.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.Model.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MySql.Data.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\System.Data.SQLite.DLL
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.DBUtility.pdb
+D:\Demo\ShowDemo\EmergencyDemo\DAL\bin\Debug\MJ.Model.pdb
+D:\Demo\ShowDemo\EmergencyDemo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Demo\ShowDemo\EmergencyDemo\DAL\obj\Debug\MJ.DAL.dll
+D:\Demo\ShowDemo\EmergencyDemo\DAL\obj\Debug\MJ.DAL.pdb

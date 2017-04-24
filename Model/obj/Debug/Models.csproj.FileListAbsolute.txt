@@ -1,0 +1,4 @@
+D:\Demo\ShowDemo\EmergencyDemo\Model\bin\Debug\MJ.Model.dll
+D:\Demo\ShowDemo\EmergencyDemo\Model\bin\Debug\MJ.Model.pdb
+D:\Demo\ShowDemo\EmergencyDemo\Model\obj\Debug\MJ.Model.dll
+D:\Demo\ShowDemo\EmergencyDemo\Model\obj\Debug\MJ.Model.pdb
