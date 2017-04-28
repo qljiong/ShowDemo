@@ -1,9 +1,5 @@
 ﻿using MJ.BLL;
 using MJ.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace WebDemo.Controllers
@@ -12,7 +8,6 @@ namespace WebDemo.Controllers
     {
         //
         // GET: /Home/
-
         public ActionResult Index()
         {
             OptUserInfo us = new OptUserInfo();
@@ -24,6 +19,5 @@ namespace WebDemo.Controllers
         {
             return Json("");
         }
-
     }
 }
