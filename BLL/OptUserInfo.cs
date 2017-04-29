@@ -11,8 +11,8 @@ namespace MJ.BLL
 	/// </summary>
 	public partial class OptUserInfo
 	{
-        private readonly SourceUserInfo dal = new SourceUserInfo();
-        public OptUserInfo()
+		private readonly SourceUserInfo dal = new SourceUserInfo();
+		public OptUserInfo()
 		{}
 		#region  BasicMethod
 

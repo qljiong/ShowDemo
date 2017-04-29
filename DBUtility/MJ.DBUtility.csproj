@@ -35,7 +35,7 @@
     </SccAuxPath>
     <SccProvider>
     </SccProvider>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <OldToolsVersion>2.0</OldToolsVersion>
     <PublishUrl>发布\</PublishUrl>
     <Install>true</Install>
@@ -52,6 +52,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\Debug\</OutputPath>
@@ -75,6 +76,7 @@
     <WarningLevel>4</WarningLevel>
     <DebugType>full</DebugType>
     <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -98,6 +100,7 @@
     <WarningLevel>4</WarningLevel>
     <DebugType>none</DebugType>
     <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MySql.Data, Version=6.4.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
@@ -128,21 +131,13 @@
     <Compile Include="CommandInfo.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DbHelperMySQL.cs" />
-    <Compile Include="DbHelperOleDb.cs" />
-    <Compile Include="DbHelperOra.cs" />
-    <Compile Include="DbHelperSQL.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="DESEncrypt.cs" />
-    <Compile Include="OracleHelper.cs">
+    <Compile Include="DESEncrypt.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PubConstant.cs" />
     <Compile Include="SQLHelper.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DbHelperSQLP.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
